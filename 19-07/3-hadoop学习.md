@@ -22,6 +22,18 @@
 
 
 
+# MapTask工作机制
+
+/home/hq/TISHQ/md/imgs/2019-07-07_001.png
+
+
+
+# ReduceTask工作机制
+
+/home/hq/TISHQ/md/imgs/2019-07-07_002.png
+
+
+
 
 
 
